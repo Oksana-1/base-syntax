@@ -1,0 +1,14 @@
+.styled-form input {
+    outline: none;
+    color: inherit;
+    -webkit-appearance: none;
+    background: none;
+    border-radius: 0;
+    font-family: inherit;
+    resize: none;
+    line-height: normal;
+    border: 1px solid #999;
+    padding: 0 10px;
+    height: 35px;
+    font-size: 14px;
+}
